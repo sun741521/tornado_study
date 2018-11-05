@@ -1,0 +1,17 @@
+sunck is a nice man 
+
+{
+	'file': 
+		[
+			{
+				 'filename': 'a.txt',
+				 'body': b'sunck is a good man ',
+				 'content_type': 'text/plain'
+			},
+		 	{
+				'filename': 'b.txt', 
+				'body': b'sunck is a nice man ', 
+				'content_type': 'text/plain'
+			}
+		]
+}
